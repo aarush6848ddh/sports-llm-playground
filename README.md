@@ -51,7 +51,7 @@ pip install groq python-dotenv
 
 Create a `.env` file:
 ```
-GROQ_API_KEY=your_key_here
+GROQ_API_KEY=your_api_key
 ```
 
 Get a free API key at [console.groq.com](https://console.groq.com).
